@@ -1,0 +1,42 @@
+
+# Big files
+*.psb
+*.psd
+*.mov
+
+# Build folders
+bower_components
+node_modules
+.sass-cache
+
+# OS generated files
+.DS_Store*
+ehthumbs.db
+Thumbs.db
+._*
+Icon
+__MACOSX
+.idea
+
+# Packages
+*.exe
+*.7z
+*.dmg
+*.gz
+*.bz2
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.tgz
+*.orig
+
+# Logs and databases
+*.log
+*.sql
+
+# Backup and swap files
+*.swp
+*.bak
+
