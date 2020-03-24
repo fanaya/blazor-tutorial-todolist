@@ -8,7 +8,6 @@
 /Volumes/Data/_BLT_RM_UTILITIES/BLT_Development/MS_NET/Blazor/blazor-tutorial-todolist/ToDoList/ToDoList/bin/Debug/netcoreapp3.1/ToDoList.pdb
 /Volumes/Data/_BLT_RM_UTILITIES/BLT_Development/MS_NET/Blazor/blazor-tutorial-todolist/ToDoList/ToDoList/bin/Debug/netcoreapp3.1/ToDoList.Views.dll
 /Volumes/Data/_BLT_RM_UTILITIES/BLT_Development/MS_NET/Blazor/blazor-tutorial-todolist/ToDoList/ToDoList/bin/Debug/netcoreapp3.1/ToDoList.Views.pdb
-/Volumes/Data/_BLT_RM_UTILITIES/BLT_Development/MS_NET/Blazor/blazor-tutorial-todolist/ToDoList/ToDoList/obj/Debug/netcoreapp3.1/ToDoList.csprojAssemblyReference.cache
 /Volumes/Data/_BLT_RM_UTILITIES/BLT_Development/MS_NET/Blazor/blazor-tutorial-todolist/ToDoList/ToDoList/obj/Debug/netcoreapp3.1/ToDoList.csproj.CoreCompileInputs.cache
 /Volumes/Data/_BLT_RM_UTILITIES/BLT_Development/MS_NET/Blazor/blazor-tutorial-todolist/ToDoList/ToDoList/obj/Debug/netcoreapp3.1/ToDoList.MvcApplicationPartsAssemblyInfo.cache
 /Volumes/Data/_BLT_RM_UTILITIES/BLT_Development/MS_NET/Blazor/blazor-tutorial-todolist/ToDoList/ToDoList/obj/Debug/netcoreapp3.1/ToDoList.RazorComponent.input.cache
@@ -17,6 +16,7 @@
 /Volumes/Data/_BLT_RM_UTILITIES/BLT_Development/MS_NET/Blazor/blazor-tutorial-todolist/ToDoList/ToDoList/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Error.razor.g.cs
 /Volumes/Data/_BLT_RM_UTILITIES/BLT_Development/MS_NET/Blazor/blazor-tutorial-todolist/ToDoList/ToDoList/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/FetchData.razor.g.cs
 /Volumes/Data/_BLT_RM_UTILITIES/BLT_Development/MS_NET/Blazor/blazor-tutorial-todolist/ToDoList/ToDoList/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Index.razor.g.cs
+/Volumes/Data/_BLT_RM_UTILITIES/BLT_Development/MS_NET/Blazor/blazor-tutorial-todolist/ToDoList/ToDoList/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Todo.razor.g.cs
 /Volumes/Data/_BLT_RM_UTILITIES/BLT_Development/MS_NET/Blazor/blazor-tutorial-todolist/ToDoList/ToDoList/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/MainLayout.razor.g.cs
 /Volumes/Data/_BLT_RM_UTILITIES/BLT_Development/MS_NET/Blazor/blazor-tutorial-todolist/ToDoList/ToDoList/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/NavMenu.razor.g.cs
 /Volumes/Data/_BLT_RM_UTILITIES/BLT_Development/MS_NET/Blazor/blazor-tutorial-todolist/ToDoList/ToDoList/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs
@@ -30,6 +30,7 @@
 /Volumes/Data/_BLT_RM_UTILITIES/BLT_Development/MS_NET/Blazor/blazor-tutorial-todolist/ToDoList/ToDoList/obj/Debug/netcoreapp3.1/Razor/Pages/Error.razor.g.cs
 /Volumes/Data/_BLT_RM_UTILITIES/BLT_Development/MS_NET/Blazor/blazor-tutorial-todolist/ToDoList/ToDoList/obj/Debug/netcoreapp3.1/Razor/Pages/FetchData.razor.g.cs
 /Volumes/Data/_BLT_RM_UTILITIES/BLT_Development/MS_NET/Blazor/blazor-tutorial-todolist/ToDoList/ToDoList/obj/Debug/netcoreapp3.1/Razor/Pages/Index.razor.g.cs
+/Volumes/Data/_BLT_RM_UTILITIES/BLT_Development/MS_NET/Blazor/blazor-tutorial-todolist/ToDoList/ToDoList/obj/Debug/netcoreapp3.1/Razor/Pages/Todo.razor.g.cs
 /Volumes/Data/_BLT_RM_UTILITIES/BLT_Development/MS_NET/Blazor/blazor-tutorial-todolist/ToDoList/ToDoList/obj/Debug/netcoreapp3.1/Razor/Shared/MainLayout.razor.g.cs
 /Volumes/Data/_BLT_RM_UTILITIES/BLT_Development/MS_NET/Blazor/blazor-tutorial-todolist/ToDoList/ToDoList/obj/Debug/netcoreapp3.1/Razor/Shared/NavMenu.razor.g.cs
 /Volumes/Data/_BLT_RM_UTILITIES/BLT_Development/MS_NET/Blazor/blazor-tutorial-todolist/ToDoList/ToDoList/obj/Debug/netcoreapp3.1/Razor/Shared/SurveyPrompt.razor.g.cs
